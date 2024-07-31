@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "puniosDePuria:lib"
+
+    - path: "./test"
+      component: "puniosDePuria:test:puniosDePuria-test"
